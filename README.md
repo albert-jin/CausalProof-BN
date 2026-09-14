@@ -192,5 +192,5 @@ This GitHub release contains source code, tests, lightweight dependency files,
 and reproducibility instructions only. Model checkpoints, LoRA adapters,
 datasets, generated outputs, caches, and experiment logs are intentionally not
 included. The source snapshot was copied from the TIME-based experiment tree
-on 2026-09-15; the historical TIME and TIMEBench commit identifiers are listed
+on 2026-09-15 (DeltaAlign-Code release commit `8df830a`); the historical TIME and TIMEBench commit identifiers are listed
 above for reproducibility.
